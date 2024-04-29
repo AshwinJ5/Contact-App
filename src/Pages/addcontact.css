@@ -1,0 +1,5 @@
+.onetwo[type="number" ]::-webkit-outer-spin-button,
+.onetwo[type="number" ]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+

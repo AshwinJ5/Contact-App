@@ -1,0 +1,33 @@
+video{
+    position:absolute;
+    object-fit: cover;
+    height: 100vh;
+    
+}
+.landing-container{
+    position: relative;
+    height: 100vh;
+    padding-top: 25%;
+}
+#bannerBtn:hover{
+    color: #fe6601;
+    background-color: white;
+}
+#bannerBtn{
+    color: white;
+    background-color: #fe6601;
+}
+.cardDiv:hover{
+    box-shadow: 0 4px 8px 0 rgba(255, 85, 0), 0 6px 40px 0 rgba(255, 85, 0,1);
+    text-align: center;
+  }
+  .navbarMain{
+    color: #11009e;
+  }
+  .navbarMain:hover{
+    color: #fe6601;
+  }
+  .cardDIVone:hover{
+    box-shadow: 0 4px 8px 0 #11009e, 0 6px 40px 0 #11009e;
+    text-align: center;
+  }
